@@ -1,6 +1,6 @@
 SSTableGenerator {
 	margin:0px;padding:0px;
-	width:100%;
+	width:auto;
 	box-shadow: 10px 10px 5px #888888;
 	border:1px solid #000000;
 	
@@ -20,7 +20,7 @@ SSTableGenerator {
 	-webkit-border-top-left-radius:6px;
 	border-top-left-radius:6px;
 }.CSSTableGenerator table{
-	width:100%;
+	width:auto;
 	height:100%;
 	margin:0px;padding:0px;
 }.CSSTableGenerator tr:last-child td:last-child {
